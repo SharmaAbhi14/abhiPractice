@@ -1,0 +1,11 @@
+{
+  "name": "abhipractice",
+  "version": "1.0.0",
+  "description": "i am the developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "txt"
+  },
+  "author": "abhi",
+  "license": "ISC"
+}
